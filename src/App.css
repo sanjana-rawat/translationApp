@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  color: black;
+}
+
+div {
+  padding: 20px;
+  margin-top: -8px;
+}
+
+select {
+  padding: 8px;
+  margin-left: 10px;
+  margin-top: "20px";
+}
+/* img {
+  margin-bottom: 2px;
+}  */
+
+.heading {
+  text-transform: uppercase;
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+button {
+  background-color: rgb(240, 228, 123);
+  padding: 10px;
+}
+
+#img1 {
+  float: left;
+}
+
+#img2 {
+  float: left;
+}
